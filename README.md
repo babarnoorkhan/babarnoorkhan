@@ -206,12 +206,7 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 
 
 
-## 🎨 Design Portfolio
 
-<p align="center">
-  <a href="https://www.behance.net/yourprofile"><img src="https://img.shields.io/badge/Behance-Portfolio-blue?style=for-the-badge&logo=behance" alt="Behance"></a>
-  <a href="https://dribbble.com/yourprofile"><img src="https://img.shields.io/badge/Dribbble-Portfolio-pink?style=for-the-badge&logo=dribbble" alt="Dribbble"></a>
-</p>
 
 ## 🤝 Let's Connect!
 
