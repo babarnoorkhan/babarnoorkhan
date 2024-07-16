@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strate
 </p>
 
 - **Languages:**
-  <p>
+  <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/>
@@ -36,20 +36,20 @@ Welcome to my GitHub profile! I am a passionate software developer with a strate
   </p>
 
 - **Frameworks:**
-  <p>
+  <p align="center">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" title="ReactJS"/>
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/>
   </p>
 
 - **Platforms:**
-  <p>
+  <p align="center">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Unix" title="Unix"/>
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" title="Windows"/>
     <img src="https://img.icons8.com/color/48/000000/mac-logo.png" alt="MAC" title="MAC"/>
   </p>
 
 - **Databases:**
-  <p>
+  <p align="center">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" title="Oracle"/>
   </p>
@@ -121,165 +121,119 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138266-4c5c226e-2b8a-4bf1-9089-fb166503eab8.gif" alt="Education GIF" style="width:200px;">
+  <img src="https://user-images.githubusercontent.com/20955511/199138271-4b2db39b-c1a2-4b17-a0ac-ade51abf27f5.gif" alt="Education GIF">
 </p>
 
-<div align="center" style="animation: fadeIn 2s;">
-  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #e6f7ff; border-radius: 10px; overflow: hidden;">
-    <thead>
-      <tr style="background-color: #007BFF; color: white;">
-        <th style="padding: 12px;">Institute</th>
-        <th style="padding: 12px;">Degree</th>
-        <th style="padding: 12px;">Year</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Institute of Space Technology, Islamabad</td>
-        <td style="padding: 12px;">Bachelor of Computer Science</td>
-        <td style="padding: 12px;">2020-2024</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Global College System, Rawalpindi</td>
-        <td style="padding: 12px;">Higher Secondary School Certificate</td>
-        <td style="padding: 12px;">2014-2016</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px;">City Grammar School, Rawalpindi</td>
-        <td style="padding: 12px;">Secondary School Certificate</td>
-        <td style="padding: 12px;">2012-2014</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+- **Bachelor of Computer Science**
+  - **Institute of Space Technology, Islamabad (2020-2024)**
 
-## 💼 Work Experience
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138282-0d5f1355-687b-4c89-8a72-18b95b2c82d3.gif" alt="Experience GIF" style="width:200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=babarnoorkhan&show_icons=true&theme=dark&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&bg_color=0d1117" alt="Babar's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babarnoorkhan&theme=dark&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="Babar's GitHub Streak Stats">
 </p>
-
-<div align="center" style="animation: fadeIn 2s;">
-  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #f9f2ec; border-radius: 10px; overflow: hidden;">
-    <thead>
-      <tr style="background-color: #FF6347; color: white;">
-        <th style="padding: 12px;">Company</th>
-        <th style="padding: 12px;">Role</th>
-        <th style="padding: 12px;">Period</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Work Generations Pvt. Ltd</td>
-        <td style="padding: 12px;">Software Developer</td>
-        <td style="padding: 12px;">June 2021 - June 2023</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px;">Nexus95 Pvt. Ltd</td>
-        <td style="padding: 12px;">Senior Developer</td>
-        <td style="padding: 12px;">August 2023 - Present</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## 🏅 Certifications
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138309-7af2f64f-9d0d-4ef1-88a3-ecc3e20a9da8.gif" alt="Certifications GIF" style="width:200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarnoorkhan&layout=compact&theme=dark&title_color=ff79c6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages">
 </p>
 
-<div align="center" style="animation: fadeIn 2s;">
-  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #e9f5e9; border-radius: 10px; overflow: hidden;">
-    <thead>
-      <tr style="background-color: #28a745; color: white;">
-        <th style="padding: 12px;">Certification</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Blockchain Basics</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Digital Marketing</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Auto CAD</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">Search Engine Optimization</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">WordPress</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">E-Commerce</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px;">QuickBooks</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138329-2a8e8d36-f58a-4d04-8b8f-e4d9d3e7920b.gif" alt="Achievements GIF" style="width:200px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=babarnoorkhan&theme=darkhub&title_color=ff79c6&text_color=c9d1d9&background=0d1117&column=7" alt="Babar's GitHub Trophies">
 </p>
 
-<div align="center" style="animation: fadeIn 2s;">
-  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #fff4e6; border-radius: 10px; overflow: hidden;">
-    <thead>
-      <tr style="background-color: #ff9800; color: white;">
-        <th style="padding: 12px;">Achievement</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 12px;">KRL Foundation Scholarship</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px;">Benevolent Fund Scholarship</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
-## 💬 Let's Connect!
+## 📫 How to Reach Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138351-3b99a6f7-d24c-4a54-92e1-961d0d5c2eaf.gif" alt="Connect GIF" style="width:200px;">
+  <a href="https://www.linkedin.com/in/babarnoorkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:babarnoorkhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
 </p>
 
-- Email: [babarnoorkhan@gmail.com](mailto:babarnoorkhan@gmail.com)
-- LinkedIn: [Babar Noor Khan](https://www.linkedin.com/in/babarnoorkhan)
-
-<p align="center" style="animation: fadeIn 2s;">
-  <img src="https://github-readme-stats.vercel.app/api?username=babarnoorkhan&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarnoorkhan&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center" style="animation: fadeIn 2s;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babarnoorkhan&theme=radical" alt="GitHub Streak">
-</p>
-
-
-
-
-
-## 🌐 Find me around the web:
+## 💬 Languages & Tools
 
 <p align="center">
-  <a href="https://github.com/babarnoorkhan"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/qr/UHN3JJUUT5MPB1"><img src="https://img.icons8.com/nolan/64/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
----
+## 🌐 Personal Website
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138379-0b139666-1a31-4e02-8b0d-6d2e0139e635.gif" alt="Thanks GIF">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge&logo=internet-explorer" alt="Website"></a>
 </p>
 
-Thanks for stopping by! Let's build something amazing together. 🚀
+## 🛠️ Projects
+
+### Featured Project: My Awesome App
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138324-769c1e1f-7877-4a4b-bb5d-0ba3f48f5b16.gif" alt="Project GIF" width="300">
+</p>
+<p align="center">
+  <a href="https://github.com/babarnoorkhan/my-awesome-app"><img src="https://img.shields.io/badge/View_Project-My_Awesome_App-blue?style=for-the-badge&logo=github" alt="My Awesome App"></a>
+</p>
+
+- **Description:** A brief description of the project highlighting its features, technologies used, and purpose.
+- **Technologies:** React, Node.js, Express, MongoDB
+- **Live Demo:** [Demo Link](https://yourlivedemo.com)
+
+
+
+## 📊 Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql,git,docker,aws,heroku,figma" alt="Technical Skills">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+## 🎨 Design Portfolio
+
+<p align="center">
+  <a href="https://www.behance.net/yourprofile"><img src="https://img.shields.io/badge/Behance-Portfolio-blue?style=for-the-badge&logo=behance" alt="Behance"></a>
+  <a href="https://dribbble.com/yourprofile"><img src="https://img.shields.io/badge/Dribbble-Portfolio-pink?style=for-the-badge&logo=dribbble" alt="Dribbble"></a>
+</p>
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/babarnoorkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:babarnoorkhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
+
+
+
+
+
+## 💡 Ideas and Suggestions
+
+Feel free to open an issue or reach out with any ideas or suggestions on how I can improve my projects or profile!
+
+
+
 
