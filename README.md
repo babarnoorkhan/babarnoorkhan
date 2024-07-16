@@ -74,45 +74,45 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 🛠️ Projects
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138191-6e0ccbb8-6fb5-4d43-a24c-dc3abca3d5f9.gif" alt="Projects GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138191-6e0ccbb8-6fb5-4d43-a24c-dc3abca3d5f9.gif" alt="Projects GIF" style="width:200px;">
 </p>
 
-<div align="center">
-  <table>
+<div align="center" style="animation: fadeIn 2s;">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #f2f2f2; border-radius: 10px; overflow: hidden;">
     <thead>
-      <tr>
-        <th>Project Name</th>
-        <th>Description</th>
+      <tr style="background-color: #4CAF50; color: white;">
+        <th style="padding: 12px;">Project Name</th>
+        <th style="padding: 12px;">Description</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td><strong>Employee Management System</strong></td>
-        <td>Visual Programming Project</td>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Employee Management System</strong></td>
+        <td style="padding: 12px;">Visual Programming Project</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Restaurant Management System</strong></td>
+        <td style="padding: 12px;">Database Project</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Student Record Management System</strong></td>
+        <td style="padding: 12px;">DSA Project</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Railway Reservation System</strong></td>
+        <td style="padding: 12px;">OOP Project</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Expense Tracker App</strong></td>
+        <td style="padding: 12px;">Android Project</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;"><strong>Basic Portfolio Website</strong></td>
+        <td style="padding: 12px;">Web Project</td>
       </tr>
       <tr>
-        <td><strong>Restaurant Management System</strong></td>
-        <td>Database Project</td>
-      </tr>
-      <tr>
-        <td><strong>Student Record Management System</strong></td>
-        <td>DSA Project</td>
-      </tr>
-      <tr>
-        <td><strong>Railway Reservation System</strong></td>
-        <td>OOP Project</td>
-      </tr>
-      <tr>
-        <td><strong>Expense Tracker App</strong></td>
-        <td>Android Project</td>
-      </tr>
-      <tr>
-        <td><strong>Basic Portfolio Website</strong></td>
-        <td>Web Project</td>
-      </tr>
-      <tr>
-        <td><strong>FYP: Cyber-Secured Interoperable E-Health System</strong></td>
-        <td>Final Year Project</td>
+        <td style="padding: 12px;"><strong>FYP: Cyber-Secured Interoperable E-Health System</strong></td>
+        <td style="padding: 12px;">Final Year Project</td>
       </tr>
     </tbody>
   </table>
@@ -121,33 +121,33 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138266-4c5c226e-2b8a-4bf1-9089-fb166503eab8.gif" alt="Education GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138266-4c5c226e-2b8a-4bf1-9089-fb166503eab8.gif" alt="Education GIF" style="width:200px;">
 </p>
 
-<div align="center">
-  <table>
+<div align="center" style="animation: fadeIn 2s;">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #e6f7ff; border-radius: 10px; overflow: hidden;">
     <thead>
-      <tr>
-        <th>Institute</th>
-        <th>Degree</th>
-        <th>Year</th>
+      <tr style="background-color: #007BFF; color: white;">
+        <th style="padding: 12px;">Institute</th>
+        <th style="padding: 12px;">Degree</th>
+        <th style="padding: 12px;">Year</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Institute of Space Technology, Islamabad</td>
-        <td>Bachelor of Computer Science</td>
-        <td>2020-2024</td>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Institute of Space Technology, Islamabad</td>
+        <td style="padding: 12px;">Bachelor of Computer Science</td>
+        <td style="padding: 12px;">2020-2024</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Global College System, Rawalpindi</td>
+        <td style="padding: 12px;">Higher Secondary School Certificate</td>
+        <td style="padding: 12px;">2014-2016</td>
       </tr>
       <tr>
-        <td>Global College System, Rawalpindi</td>
-        <td>Higher Secondary School Certificate</td>
-        <td>2014-2016</td>
-      </tr>
-      <tr>
-        <td>City Grammar School, Rawalpindi</td>
-        <td>Secondary School Certificate</td>
-        <td>2012-2014</td>
+        <td style="padding: 12px;">City Grammar School, Rawalpindi</td>
+        <td style="padding: 12px;">Secondary School Certificate</td>
+        <td style="padding: 12px;">2012-2014</td>
       </tr>
     </tbody>
   </table>
@@ -156,28 +156,28 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 💼 Work Experience
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138282-0d5f1355-687b-4c89-8a72-18b95b2c82d3.gif" alt="Experience GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138282-0d5f1355-687b-4c89-8a72-18b95b2c82d3.gif" alt="Experience GIF" style="width:200px;">
 </p>
 
-<div align="center">
-  <table>
+<div align="center" style="animation: fadeIn 2s;">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #f9f2ec; border-radius: 10px; overflow: hidden;">
     <thead>
-      <tr>
-        <th>Company</th>
-        <th>Role</th>
-        <th>Period</th>
+      <tr style="background-color: #FF6347; color: white;">
+        <th style="padding: 12px;">Company</th>
+        <th style="padding: 12px;">Role</th>
+        <th style="padding: 12px;">Period</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Work Generations Pvt. Ltd</td>
-        <td>Software Developer</td>
-        <td>June 2021 - June 2023</td>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Work Generations Pvt. Ltd</td>
+        <td style="padding: 12px;">Software Developer</td>
+        <td style="padding: 12px;">June 2021 - June 2023</td>
       </tr>
       <tr>
-        <td>Nexus95 Pvt. Ltd</td>
-        <td>Senior Developer</td>
-        <td>August 2023 - Present</td>
+        <td style="padding: 12px;">Nexus95 Pvt. Ltd</td>
+        <td style="padding: 12px;">Senior Developer</td>
+        <td style="padding: 12px;">August 2023 - Present</td>
       </tr>
     </tbody>
   </table>
@@ -186,37 +186,37 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138309-7af2f64f-9d0d-4ef1-88a3-ecc3e20a9da8.gif" alt="Certifications GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138309-7af2f64f-9d0d-4ef1-88a3-ecc3e20a9da8.gif" alt="Certifications GIF" style="width:200px;">
 </p>
 
-<div align="center">
-  <table>
+<div align="center" style="animation: fadeIn 2s;">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #e9f5e9; border-radius: 10px; overflow: hidden;">
     <thead>
-      <tr>
-        <th>Certification</th>
+      <tr style="background-color: #28a745; color: white;">
+        <th style="padding: 12px;">Certification</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Blockchain Basics</td>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Blockchain Basics</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Digital Marketing</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Auto CAD</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">Search Engine Optimization</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">WordPress</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">E-Commerce</td>
       </tr>
       <tr>
-        <td>Digital Marketing</td>
-      </tr>
-      <tr>
-        <td>Auto CAD</td>
-      </tr>
-      <tr>
-        <td>Search Engine Optimization</td>
-      </tr>
-      <tr>
-        <td>WordPress</td>
-      </tr>
-      <tr>
-        <td>E-Commerce</td>
-      </tr>
-      <tr>
-        <td>QuickBooks</td>
+        <td style="padding: 12px;">QuickBooks</td>
       </tr>
     </tbody>
   </table>
@@ -225,45 +225,48 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138329-2a8e8d36-f58a-4d04-8b8f-e4d9d3e7920b.gif" alt="Achievements GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138329-2a8e8d36-f58a-4d04-8b8f-e4d9d3e7920b.gif" alt="Achievements GIF" style="width:200px;">
 </p>
 
-<div align="center">
-  <table>
+<div align="center" style="animation: fadeIn 2s;">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; background-color: #fff4e6; border-radius: 10px; overflow: hidden;">
     <thead>
-      <tr>
-        <th>Achievement</th>
+      <tr style="background-color: #ff9800; color: white;">
+        <th style="padding: 12px;">Achievement</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>KRL Foundation Scholarship</td>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 12px;">KRL Foundation Scholarship</td>
       </tr>
       <tr>
-        <td>Benevolent Fund Scholarship</td>
+        <td style="padding: 12px;">Benevolent Fund Scholarship</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
 ## 💬 Let's Connect!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138351-3b99a6f7-d24c-4a54-92e1-961d0d5c2eaf.gif" alt="Connect GIF">
+  <img src="https://user-images.githubusercontent.com/20955511/199138351-3b99a6f7-d24c-4a54-92e1-961d0d5c2eaf.gif" alt="Connect GIF" style="width:200px;">
 </p>
 
 - Email: [babarnoorkhan@gmail.com](mailto:babarnoorkhan@gmail.com)
 - LinkedIn: [Babar Noor Khan](https://www.linkedin.com/in/babarnoorkhan)
 
-<p align="center">
+<p align="center" style="animation: fadeIn 2s;">
   <img src="https://github-readme-stats.vercel.app/api?username=babarnoorkhan&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarnoorkhan&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<p align="center">
+<p align="center" style="animation: fadeIn 2s;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=babarnoorkhan&theme=radical" alt="GitHub Streak">
 </p>
+
+
+
+
 
 ## 🌐 Find me around the web:
 
@@ -280,8 +283,3 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
 
 Thanks for stopping by! Let's build something amazing together. 🚀
 
-<p align="center">
-  <a href="https://github.com/babarnoorkhan">
-    <img src="https://github.com/babarnoorkhan/babarnoorkhan/raw/output/github-contribution-grid-snake.svg" alt="snake">
-  </a>
-</p>
