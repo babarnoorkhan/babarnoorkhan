@@ -62,12 +62,14 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
   <img src="https://user-images.githubusercontent.com/20955511/199138132-80a21e38-5cde-4880-892b-2d6e56cc50f8.gif" alt="Skills GIF">
 </p>
 
-- Problem-solving
-- Software Development
-- Technical Writing
-- Semantic HTML & Accessibility
-- CSS Frameworks
-- Agile Methodologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem--solving-FFD700?style=for-the-badge&logo=Probot&logoColor=white" alt="Problem-solving">
+  <img src="https://img.shields.io/badge/Software%20Development-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Software Development">
+  <img src="https://img.shields.io/badge/Technical%20Writing-0000FF?style=for-the-badge&logo=markdown&logoColor=white" alt="Technical Writing">
+  <img src="https://img.shields.io/badge/Semantic%20HTML%20%26%20Accessibility-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Semantic HTML & Accessibility">
+  <img src="https://img.shields.io/badge/CSS%20Frameworks-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Frameworks">
+  <img src="https://img.shields.io/badge/Agile%20Methodologies-FF0000?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile Methodologies">
+</div>
 
 ## 🛠️ Projects
 
@@ -75,15 +77,46 @@ I have a Bachelor of Computer Science from the Institute of Space Technology, Is
   <img src="https://user-images.githubusercontent.com/20955511/199138191-6e0ccbb8-6fb5-4d43-a24c-dc3abca3d5f9.gif" alt="Projects GIF">
 </p>
 
-Here are some of the projects I have worked on:
-
-1. **Employee Management System** (Visual Programming Project)
-2. **Restaurant Management System** (Database Project)
-3. **Student Record Management System** (DSA Project)
-4. **Railway Reservation System** (OOP Project)
-5. **Expense Tracker App** (Android Project)
-6. **Basic Portfolio Website** (Web Project)
-7. **FYP: Cyber-Secured Interoperable E-Health System**
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Employee Management System</strong></td>
+        <td>Visual Programming Project</td>
+      </tr>
+      <tr>
+        <td><strong>Restaurant Management System</strong></td>
+        <td>Database Project</td>
+      </tr>
+      <tr>
+        <td><strong>Student Record Management System</strong></td>
+        <td>DSA Project</td>
+      </tr>
+      <tr>
+        <td><strong>Railway Reservation System</strong></td>
+        <td>OOP Project</td>
+      </tr>
+      <tr>
+        <td><strong>Expense Tracker App</strong></td>
+        <td>Android Project</td>
+      </tr>
+      <tr>
+        <td><strong>Basic Portfolio Website</strong></td>
+        <td>Web Project</td>
+      </tr>
+      <tr>
+        <td><strong>FYP: Cyber-Secured Interoperable E-Health System</strong></td>
+        <td>Final Year Project</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 🎓 Education
 
@@ -91,12 +124,34 @@ Here are some of the projects I have worked on:
   <img src="https://user-images.githubusercontent.com/20955511/199138266-4c5c226e-2b8a-4bf1-9089-fb166503eab8.gif" alt="Education GIF">
 </p>
 
-- **Institute of Space Technology, Islamabad** (2020-2024)
-  - Bachelor of Computer Science
-- **Global College System, Rawalpindi** (2014-2016)
-  - Higher Secondary School Certificate
-- **City Grammar School, Rawalpindi** (2012-2014)
-  - Secondary School Certificate
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Institute</th>
+        <th>Degree</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Institute of Space Technology, Islamabad</td>
+        <td>Bachelor of Computer Science</td>
+        <td>2020-2024</td>
+      </tr>
+      <tr>
+        <td>Global College System, Rawalpindi</td>
+        <td>Higher Secondary School Certificate</td>
+        <td>2014-2016</td>
+      </tr>
+      <tr>
+        <td>City Grammar School, Rawalpindi</td>
+        <td>Secondary School Certificate</td>
+        <td>2012-2014</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 💼 Work Experience
 
@@ -104,8 +159,29 @@ Here are some of the projects I have worked on:
   <img src="https://user-images.githubusercontent.com/20955511/199138282-0d5f1355-687b-4c89-8a72-18b95b2c82d3.gif" alt="Experience GIF">
 </p>
 
-- **Work Generations Pvt. Ltd** (June 2021 - June 2023)
-- **Nexus95 Pvt. Ltd** (August 2023 - Present)
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Company</th>
+        <th>Role</th>
+        <th>Period</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Work Generations Pvt. Ltd</td>
+        <td>Software Developer</td>
+        <td>June 2021 - June 2023</td>
+      </tr>
+      <tr>
+        <td>Nexus95 Pvt. Ltd</td>
+        <td>Senior Developer</td>
+        <td>August 2023 - Present</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 🏅 Certifications
 
@@ -113,13 +189,38 @@ Here are some of the projects I have worked on:
   <img src="https://user-images.githubusercontent.com/20955511/199138309-7af2f64f-9d0d-4ef1-88a3-ecc3e20a9da8.gif" alt="Certifications GIF">
 </p>
 
-- Blockchain Basics
-- Digital Marketing
-- Auto CAD
-- Search Engine Optimization
-- WordPress
-- E-Commerce
-- QuickBooks
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Certification</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Blockchain Basics</td>
+      </tr>
+      <tr>
+        <td>Digital Marketing</td>
+      </tr>
+      <tr>
+        <td>Auto CAD</td>
+      </tr>
+      <tr>
+        <td>Search Engine Optimization</td>
+      </tr>
+      <tr>
+        <td>WordPress</td>
+      </tr>
+      <tr>
+        <td>E-Commerce</td>
+      </tr>
+      <tr>
+        <td>QuickBooks</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 🏆 Achievements
 
@@ -127,8 +228,24 @@ Here are some of the projects I have worked on:
   <img src="https://user-images.githubusercontent.com/20955511/199138329-2a8e8d36-f58a-4d04-8b8f-e4d9d3e7920b.gif" alt="Achievements GIF">
 </p>
 
-- KRL Foundation Scholarship
-- Benevolent Fund Scholarship
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Achievement</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>KRL Foundation Scholarship</td>
+      </tr>
+      <tr>
+        <td>Benevolent Fund Scholarship</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## 💬 Let's Connect!
 
