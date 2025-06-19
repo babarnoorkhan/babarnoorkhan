@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strate
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=babarnoorkhan&color=brightgreen" alt="Profile Views"> 
-  <a href="https://www.linkedin.com/in/babarnoorkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/babar-noor-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:babarnoorkhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"></a>
 </p>
 
